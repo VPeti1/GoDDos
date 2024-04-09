@@ -1,6 +1,6 @@
 # Go DDoS Tool
 
-A simple distributed denial-of-service (DDoS) tool written in Go for educational purposes.
+A simple distributed denial-of-service (DDoS) tool written in Go
 
 ## What does it do?
 
